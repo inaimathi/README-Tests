@@ -6,8 +6,10 @@ Testing out README features in github.
 
 # Blah
 
-Fa la la la la la la la la la
+Fa la la la la la la la la la. Also, this[^1] one has a footnote.
 
 # Blah blah
 
 And another completely random section goes here. I guess I should be using Lorem? I can't bring myself to though :/
+
+[^1]: A  foot note goes here.
