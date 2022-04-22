@@ -12,4 +12,5 @@ Fa la la la la la la la la la. Also, this[^1] one has a footnote.
 
 And another completely random section goes here. I guess I should be using Lorem? I can't bring myself to though :/
 
-[^1]: A  foot note goes here.
+[^1]: A  foot note goes here. Hm. Also, can footnotes have footnotes?[^subnote]
+[^subnote]: The answer may surprise you...
